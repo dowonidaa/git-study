@@ -1,5 +1,5 @@
 category: java
-lectures: Lim
+lectures: hong
 related:
 - spring
 - MVC
