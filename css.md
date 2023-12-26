@@ -1,5 +1,5 @@
 category: css
 lectures: Lim
-related:
+related: Polymorphism
 - html
 - xcss
