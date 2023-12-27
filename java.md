@@ -1,6 +1,6 @@
 category: java
 title: java leve2
-lectures: kang
+lectures: kong
 related:
 - xcss
 - eclipse
